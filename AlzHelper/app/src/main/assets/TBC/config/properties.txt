@@ -1,0 +1,8 @@
+url:http://djustice-android.tumblr.com
+name:Alz Helper
+email:unknown@gmail.com
+gender:AI
+botmaster:Arpit
+organization:TBC
+version:0.0.1
+

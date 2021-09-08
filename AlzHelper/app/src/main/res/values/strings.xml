@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Alz Helper</string>
+    <string name="login_email_hint">Username</string>
+    <string name="login_password_hint">Password</string>
+</resources>
